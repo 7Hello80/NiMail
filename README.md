@@ -3,9 +3,9 @@
 <div align="center">
 
 ![Go Version](https://img.shields.io/badge/go-%3E%3D1.21-blue.svg)
-![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
 [![Stars](https://img.shields.io/github/stars/7Hello80/NiMail?style=social)](https://github.com/7Hello80/NiMail/stargazers)
 [![Forks](https://img.shields.io/github/forks/7Hello80/NiMail?style=social)](https://github.com/7Hello80/NiMail/network/members)
+![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)
 
