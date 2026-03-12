@@ -9,6 +9,8 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)
 
+🚀 **专业的邮箱管理系统**
+
 轻量级邮件服务器，支持 SMTP/IMAP/POP3 全协议，现代化管理界面，多域名多用户管理，一键部署。
 
 </div>
