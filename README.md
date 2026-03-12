@@ -1,5 +1,7 @@
 # NiMail
 
+<div align="center">
+
 ![Go Version](https://img.shields.io/badge/go-%3E%3D1.21-blue.svg)
 ![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)
 [![Stars](https://img.shields.io/github/stars/7Hello80/NiMail?style=social)](https://github.com/7Hello80/NiMail/stargazers)
@@ -7,7 +9,9 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)
 
-轻量级企业邮件服务器，支持 SMTP/IMAP/POP3 全协议，现代化管理界面，多域名多用户管理，一键部署。
+轻量级邮件服务器，支持 SMTP/IMAP/POP3 全协议，现代化管理界面，多域名多用户管理，一键部署。
+
+</div>
 
 ## 功能特性
 
