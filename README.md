@@ -31,7 +31,7 @@
 
 **可用平台：**
 - Linux (amd64 / arm64)
-- Windows (amd64)
+- Windows (amd64 / arm64)
 - macOS (amd64 / arm64)
 
 ## 部署
@@ -44,7 +44,7 @@ tar -xzf nimail-1.0.0-linux-amd64.tar.gz
 cd nimail-1.0.0-linux-amd64
 
 # 2. 运行程序
-./nimail
+./nimail-1.0.0-linux-amd64
 ```
 
 首次运行会自动生成 `config.yaml` 配置文件和 `data` 数据目录。
