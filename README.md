@@ -10,7 +10,7 @@
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)
 
 [[中文文档]](README.md)
-[![English](README_EN.md)
+[[English]](README_EN.md)
 
 🚀 **专业的邮箱管理系统**
 
