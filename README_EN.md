@@ -161,20 +161,6 @@ Log in to the admin dashboard and navigate to the **Domain Management** page to 
 
 Simply add the corresponding records at your DNS provider according to the information displayed in the dashboard.
 
-## 💖 Support the Project
-
-If this project helps you, please consider supporting it:
-
-<div align="center">
-
-### Buy me a coffee ☕
-
-| WeChat Pay | Alipay |
-|:--------:|:------:|
-| <img src="./image/vx.png" alt="WeChat" width="240" height="315"> | <img src="./image/alipay.jpg" alt="Alipay" width="240" height="315"> |
-
-</div>
-
 Or give the project a ⭐ Star, your support is my motivation to continue development!
 
 ## Tech Stack
