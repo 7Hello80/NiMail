@@ -9,6 +9,9 @@
 ![Build Status](https://img.shields.io/badge/build-passing-brightgreen.svg)
 ![Version](https://img.shields.io/badge/version-v1.0.0-blue.svg)
 
+[[中文文档]](README.md)
+[[English]](README_EN.md)
+
 🚀 **Professional Email Management System**
 
 Lightweight mail server with full SMTP/IMAP/POP3 protocol support, modern management interface, multi-domain and multi-user management, one-click deployment.
