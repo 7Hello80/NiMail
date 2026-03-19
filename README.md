@@ -60,7 +60,11 @@ cd nimail-1.0.0-linux-amd64
 
 首次运行会自动生成 `config.yaml` 配置文件和 `data` 数据目录。
 
-### Systemd 服务部署（推荐）
+### 宝塔面板部署（推荐）
+
+在宝塔面板的网站的Go项目部署
+
+### Systemd 服务部署
 
 ```bash
 # 1. 解压到指定目录
