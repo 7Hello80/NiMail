@@ -32,7 +32,7 @@
 
 如需使用自定义主题可在项目目录下新建static目录，里面存放前端页面文件，即可进行自定义
 
-[API开发文档 - 待添加中]()
+[API开发文档](https://7Hello80.github.io/apiDoc/index.html)
 
 ## 下载
 
