@@ -192,3 +192,7 @@ dkim:
 - **后端**: Go
 - **前端**: Vue 3 + TypeScript + Element Plus
 - **数据库**: SQLite
+
+---
+## Star 历史趋势
+[![Star History Chart](https://api.star-history.com/svg?repos=7Hello80/NiMail&type=Date)](https://star-history.com/#7Hello80/NiMail&Date)
