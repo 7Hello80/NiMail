@@ -18,6 +18,8 @@
 
 在线预览网址：https://mail.bzks.qzz.io
 
+QQ交流群：329251236
+
 </div>
 
 ## 功能特性
