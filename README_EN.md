@@ -170,3 +170,6 @@ Or give the project a ⭐ Star, your support is my motivation to continue develo
 - **Database**: SQLite
 
 ---
+## Star 历史趋势
+[![Star History Chart](https://api.star-history.com/svg?repos=7Hello80/NiMail&type=Date)](https://star-history.com/#7Hello80/NiMail&Date)
+
