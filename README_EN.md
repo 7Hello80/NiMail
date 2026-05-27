@@ -24,7 +24,7 @@ Lightweight mail server with full SMTP/IMAP/POP3 protocol support, modern manage
 - **Modern Interface** - Responsive admin dashboard with clean and intuitive user experience
 - **Multi-Domain Management** - Support for multiple domains with independent DKIM key configuration
 - **Multi-User Collaboration** - Independent mailbox space, flexible quota control, permission management
-- **External Email Aggregation** - Connect external mailboxes like QQ, 163, Gmail for unified sending and receiving
+- **External Email Aggregation** - Connect external mailboxes like QQ, 163 for unified sending and receiving
 - **Enterprise-Grade Security** - TLS/SSL end-to-end encryption, SPF/DKIM/DMARC anti-spoofing verification
 - **Rapid Deployment** - Single binary file, no complex dependencies
 
