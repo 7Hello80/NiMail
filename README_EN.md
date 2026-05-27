@@ -20,7 +20,7 @@ Lightweight mail server with full SMTP/IMAP/POP3 protocol support, modern manage
 
 ## Features
 
-- **Full Protocol Support** - Complete SMTP/IMAP/POP3 implementation, compatible with mainstream clients like Outlook, Foxmail, Thunderbird
+- **Full Protocol Support** - SMTP/IMAP/POP3 
 - **Modern Interface** - Responsive admin dashboard with clean and intuitive user experience
 - **Multi-Domain Management** - Support for multiple domains with independent DKIM key configuration
 - **Multi-User Collaboration** - Independent mailbox space, flexible quota control, permission management
